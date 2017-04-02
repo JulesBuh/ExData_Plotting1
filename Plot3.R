@@ -49,7 +49,7 @@
                   
                   #0.2B downloads the data----
                   if(!file.exists("data.zip")){
-                        download.file("https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip")
+                        download.file("https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip","data.zip")
                   }
                   #0.3B unzips the data----
                   filename<-unzip("data.zip",list=TRUE)[[1]]

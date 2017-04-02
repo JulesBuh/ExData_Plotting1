@@ -7,25 +7,25 @@ Inside this repo there are 8 files for the assignment submission (excluding this
 
 ![Histogram](Plot1.png) dims - 480x480px
 
-[submitted R source code](plot1.R)
+[plot 1 submitted R source code](Plot1.R)
 
 ### Plot 2
 
 ![line](Plot2.png) dims - 480x480px
 
-[submitted R source code](plot2.R)
+[plot 2 submitted R source code](Plot2.R)
 
 ### Plot 3
 
 ![](Plot3.png) dims - 480x480px
 
-[submitted R source code](plot3.R)
+[plot 3 submitted R source code](Plot3.R)
 
 ### Plot 4
 
 ![](Plot4.png) dims - 480x480px
 
-[submitted R source code](plot4.R)
+[plot 4 submitted R source code](Plot4.R)
 
 ### Codebook
 When running the above R code, the following functions are performed:-
